@@ -42,7 +42,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/service-account-key.json"
 ### 2. Clone and Initialize
 
 ```bash
-git clone https://github.com/Basu-Patil/tf-gcp-infra
+git clone https://github.com/basupatil1213/tf-gcp-infra
 cd tf-gcp-infra
 terraform init
 ```
@@ -253,7 +253,7 @@ terraform destroy
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License — see [LICENSE](LICENSE).
 
 ## 🤝 Contributing
 
